@@ -4,7 +4,7 @@ Sobel_code_final.ipynb : code phương pháp Sobel
 
 canny_code_final.ipynb : code phương pháp canny
 
-Thư mục Input: Tập dữ liệu đầu vào
+Thư mục Input: Tập dữ liệu đầu vào gồm 6 bức ảnh
 
 Thư mục output_sobel: tập dữ liệu đầu ra bằng phương pháp Sobel
 
